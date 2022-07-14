@@ -10,7 +10,7 @@ This package is inspired by R package [gaussfacts](https://github.com/eddelbuett
 julia>] add https://github.com/eliascarv/GaussFacts.jl
 ```
 
-# Usage
+## Usage
 
 ```julia
 julia> using GaussFacts
