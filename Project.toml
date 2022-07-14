@@ -1,0 +1,4 @@
+name = "GaussFacts"
+uuid = "0f27dce3-0808-4ef1-abe4-f340086a27b4"
+authors = ["Elias Carvalho <eliascarvdev@gmail.com>"]
+version = "0.1.0"
